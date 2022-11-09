@@ -19,7 +19,7 @@ tupla = ('Palmeiras',
 'Juventude')
 print(tupla)
 print('Os cinco primeiros colocados são:')
-print(tupla [0] '/t')
+print(tupla [0])
 print(tupla [1])
 print(tupla [2])
 print(tupla [3])
